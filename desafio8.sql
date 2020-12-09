@@ -1,0 +1,1 @@
+SELECT 5 + 6 AS A, CONCAT('d','e') AS Trybe, 2 + 8 AS eh;
