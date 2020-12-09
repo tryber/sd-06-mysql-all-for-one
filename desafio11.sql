@@ -1,2 +1,2 @@
 SELECT notes FROM northwind.purchase_orders
-WHERE RIGHT(notes, 2) BETWEEN '33' AND '39';
+WHERE RIGHT(notes, 2) BETWEEN '30' AND '39';
