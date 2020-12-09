@@ -1,1 +1,1 @@
-SELECT * FROM products LIMIT 4, 13;
+SELECT * FROM products LIMIT 3, 10;
