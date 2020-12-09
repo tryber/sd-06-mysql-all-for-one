@@ -1,1 +1,1 @@
-Todos para uno
+SELECT product_name FROM northwind.products;
