@@ -1,3 +1,3 @@
-SELECT notes
+SELECT notes 
 FROM northwind.purchase_orders
-WHERE notes <> '';
+WHERE notes IS NOT null;
