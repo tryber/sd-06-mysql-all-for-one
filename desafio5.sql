@@ -1,1 +1,1 @@
-SELECT COUNT(product_name) FROM products;
+SELECT * FROM products LIMIT 3, 10;
