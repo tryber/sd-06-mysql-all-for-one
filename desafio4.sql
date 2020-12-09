@@ -1,1 +1,1 @@
-COUNT product_name FROM products;
+COUNT product_name FROM northwind.products;
