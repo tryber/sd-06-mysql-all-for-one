@@ -1,2 +1,3 @@
 SELECT id FROM products
-order by id desc limit 5; 
+order by id desc limit 5;
+ 
