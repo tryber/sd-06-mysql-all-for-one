@@ -61,6 +61,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 Temos, nesse projeto, uma série de desafios com diferentes níveis de complexidade que devem ser resolvidos cada um em seu arquivo próprio.
 
 1. Leia a pergunta e crie um arquivo chamado `desafioN.sql`, em que N é o número do desafio;
+  * Uma maneria fácil de criar os arquivos através do terminal, é utilizando `touch desafio{1..x}.sql` onde `x` é o número do último desafio;
 
 2. O arquivo deve conter apenas o código SQL do desafio resolvido. **Não se esqueça de incluir o ponto e vírgula (";")** no final de suas queries e também de colocar o nome do **banco_de_dados.tabela_por_completo**, como no exemplo a seguir:
 ```sql
