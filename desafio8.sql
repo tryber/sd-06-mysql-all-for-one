@@ -1,0 +1,1 @@
+select 5 + 6 as A, 'de' as Trybe, 10 as eh;
