@@ -69,7 +69,7 @@ describe('Desafios iniciais', () => {
     });
   });
 
-  describe('Exiba os dados das colunas `product_name` e `id` da tabela `products` de maneira que os resultados estejam em ordem alfabética dos nomes', () => {
+  describe.only('Exiba os dados das colunas `product_name` e `id` da tabela `products` de maneira que os resultados estejam em ordem alfabética dos nomes', () => {
     it('Verifica o desafio6', async () => {
       const challengeQuery = readFileSync('desafio6.sql', 'utf8').trim();
       const expectedResult = require('./challengesResults/challengeResult6');
