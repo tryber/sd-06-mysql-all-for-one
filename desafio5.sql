@@ -1,2 +1,2 @@
 SELECT * FROM northwind.products
-BETWEEN 4 AND 13;
+LIMIT 10 OFFSET 3;
