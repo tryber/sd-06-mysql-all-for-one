@@ -1,1 +1,1 @@
-SELECT notes FROM northwind.purchase_orders WHERE notes IS NULL;
+SELECT * FROM northwind.purchase_orders WHERE notes IS NULL;
