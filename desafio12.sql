@@ -1,5 +1,5 @@
 SELECT 
-    creation_date
+    submitted_date
 FROM
     northwind.purchase_orders
 WHERE
