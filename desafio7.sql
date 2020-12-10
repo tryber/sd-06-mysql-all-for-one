@@ -1,0 +1,3 @@
+SELECT * FROM northwind.products
+ORDER BY PRODUCTID DESC
+LIMIT 5;
