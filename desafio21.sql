@@ -1,4 +1,4 @@
-inventory_idINSERT INTO order_details (
+INSERT INTO order_details (
 order_id,
 product_id,
 quantity,
