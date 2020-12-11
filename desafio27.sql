@@ -1,1 +1,1 @@
-DELETE * FROM northwind.details;
+DROP TABLE northwind.details;
