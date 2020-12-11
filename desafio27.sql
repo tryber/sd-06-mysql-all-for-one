@@ -1,1 +1,1 @@
-DROP TABLE northwind.details;
+DROP TABLE northwind.order_details;
