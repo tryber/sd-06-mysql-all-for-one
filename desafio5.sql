@@ -1,2 +1,1 @@
-SELECT * FROM northwind.products LIMIT 6 ORDER BY id
-OFFSET 4;
+SELECT * FROM northwind.products LIMIT 9 OFFSET 4;
