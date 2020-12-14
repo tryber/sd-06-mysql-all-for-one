@@ -1,4 +1,3 @@
 UPDATE northwind.order_details
-SET discount = (
-  case discount WHEN unit_price < 100000 THEN 30
-);
+SET discount = 30
+WHERE unit_price < 10.0000;
