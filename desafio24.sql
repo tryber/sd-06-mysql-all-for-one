@@ -2,4 +2,4 @@
 -- que 10.0000 e o id seja um número entre 30 a 40.
 UPDATE northwind.order_details
 SET discount = 45
-WHERE unit_price < 10.0000 AND id BETWEEN 30 AND 40;
+WHERE unit_price < 10.0000 AND (id BETWEEN 30 AND 40);
