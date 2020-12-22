@@ -1,1 +1,1 @@
-select sum(id) as A, substring(product_name, 14, 2) as Trybe, supplier_ids as eh from northwind.products where id in(5, 6) limit 1 
+SELECT (5+6) AS 'A', 'de' AS 'Trybe', (2+8) AS 'eh';

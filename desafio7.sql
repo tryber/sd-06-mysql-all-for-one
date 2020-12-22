@@ -1,1 +1,1 @@
-select * from northwind.products order by id limit 40, 45
+SELECT * FROM northwind.products ORDER BY id LIMIT 40, 45;
