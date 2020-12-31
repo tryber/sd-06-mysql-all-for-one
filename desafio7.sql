@@ -1,1 +1,1 @@
-SELECT oie.id_2 FROM (SELECT id as id_2 FROM northwind.products ORDER BY id DESC LIMIT 5) as oie ORDER BY oie.id_2;
+SELECT oie.id_2 FROM (SELECT supplier_ids as id_2 FROM northwind.products ORDER BY id DESC LIMIT 5) as oie ORDER BY oie.id_2;
