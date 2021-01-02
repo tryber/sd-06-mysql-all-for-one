@@ -1,0 +1,1 @@
+SELECT notes FROM northwind.purchase_orders WHERE substring(notes, 36) between 30 and 39;
