@@ -1,0 +1,1 @@
+select notes from northwind.purchase_orders where notes regexp('3[0-9]');

@@ -1,0 +1,1 @@
+select submitted_date from northwind.purchase_orders where submitted_date regexp('2006-0[1-3]-[0-3][0-9]');
