@@ -1,1 +1,1 @@
-select submitted_date from northwind.purchase_orders where submitted_date regexp('2006-0[1-3]-[0-3][0-9]');
+SELECT submitted_date FROM northwind.purchase_orders WHERE submitted_date BETWEEN '2006-01-26' AND '2006-03-31';
