@@ -1,0 +1,1 @@
+SELECT COUNT(id) as orders_count FROM northwind.orders WHERE employee_id regexp('[5,6]') AND shipper_id = 2;
