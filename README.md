@@ -70,7 +70,7 @@ SELECT * FROM northwind.orders;
 3. Faça isso até finalizar todos os desafios.
 
 4. Para entregar o seu projeto você deverá criar um _Pull Request_ neste repositório. Este _Pull Request_ deverá conter os arquivos `desafio1.sql`, `desafio2.sql` e assim por diante até o `desafio27.sql`, que conterão seu código `SQL` de cada desafio, respectivamente.
-
+..
 ## ⚠️ É importante que seus arquivos tenham exatamente estes nomes! ⚠️
 
 Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure a monitoria.
