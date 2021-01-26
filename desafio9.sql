@@ -1,1 +1,2 @@
-SELECT 5+6 as 'A', 'de' as 'Trybe', 2+8 as 'eh';
+SELECT notes FROM northwind.purchase_orders
+WHERE notes IS NOT NULL;
